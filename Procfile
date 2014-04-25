@@ -1,1 +1,1 @@
-web: bin/hubot -a flowdock -n Marvin 
+web: bin/hubot -a flowdock -n Hubot 
